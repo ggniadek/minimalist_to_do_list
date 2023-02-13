@@ -1,1 +1,1 @@
-# minimalist_to_do_list
+# minimalist to-do list
